@@ -10,7 +10,7 @@ For better result I suggest to redirect the output to a file:
 
 ListPerfCtr.exe > counters.txt
 
-The utility was developed with Visual Basic .NET Express edition, full source code included in the src folder
+The utility was developed with Visual Basic .NET 2010 Express edition, full source code included in the src folder
 
 Author: Gianni Bragante
 gbragante@gmail.com
